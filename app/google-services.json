@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "201819155782",
+    "firebase_url": "https://weddingcounter-1edf8-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "weddingcounter-1edf8",
+    "storage_bucket": "weddingcounter-1edf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201819155782:android:47e7796bc9930619460947",
+        "android_client_info": {
+          "package_name": "com.example.weddingcounter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK3Ix1A8p9dRpT9B9p_BDyJTFia9awAmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
